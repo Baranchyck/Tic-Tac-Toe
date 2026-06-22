@@ -23,9 +23,11 @@ game.game()
 ```
 
 ### Structure
+```text
 HrestyNoliki
 ├── __init__     — board initialization
 ├── display       — print board to console
 ├── check_winner  — check for a winner
 ├── player_move   — player input with validation
 └── game          — game loop
+```
